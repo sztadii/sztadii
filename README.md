@@ -8,7 +8,7 @@ I’m all about clean, maintainable code.
 🎨 The tech I speak: <br/>
 * React & TypeScript: My bread and butter.
 * Node.js: Where the magic happens.
-* TRPC, GraphQL, REST, MongoDB, Redis: The tools I use to make data dance.
+* TRPC, GraphQL, MongoDB, Redis, PostgreSQL: The tools I use to make data dance.
 
 ✨ What I’ve done: <br/>
 * I once turned a two-week task into a 30-minute fix-legendary status among my peers.
