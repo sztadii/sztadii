@@ -1,7 +1,7 @@
 Hey, I’m Krystian!
 
 💻 Full-stack wizard: <br/>
-I build things that make the internet better, faster, and cooler.
+I build things that make the internet better, faster and cooler.
 From crafting seamless React components to designing backends that just work,
 I’m all about clean, maintainable code.
 
@@ -17,5 +17,5 @@ I’m all about clean, maintainable code.
 * My CI pipeline went from 13 minutes to 1. (It’s okay to be impressed. I am too.)
 
 🔥 Why I code: <br/>
-Coding isn’t just a job - it’s like being a chef, architect, and detective rolled into one.
+Coding isn’t just a job - it’s like being a chef, architect and detective rolled into one.
 Whether it’s debugging tricky issues or designing sleek interfaces, I love bringing ideas to life with code.
