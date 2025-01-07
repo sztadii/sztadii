@@ -1,6 +1,6 @@
 Hey, I’m Krystian!
 
-💻 Full-stack wizard: <br/>
+💻 JavaScript wizard: <br/>
 I build things that make the internet better, faster and cooler.
 From crafting seamless React components to designing backends that just work,
 I’m all about clean, maintainable code.
